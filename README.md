@@ -1,5 +1,7 @@
 # Top-iOSApp-
-Ranking app, Apple Store release 04-2025
+Ranking app
+https://apps.apple.com/ca/app/top-ranking/id6743449298
+
 
 
 ![Simulator Screenshot - iPhone 16 - 2025-03-10 at 12 42 42](https://github.com/user-attachments/assets/8adc0531-e80e-4d83-8a8d-52e771579946)
